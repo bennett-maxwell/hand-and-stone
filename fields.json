@@ -2,7 +2,7 @@
   "slug": "hand-and-stone",
   "brand": "Hand and Stone",
   "live_url": "https://bennett-maxwell.github.io/hand-and-stone/",
-  "generated_at_utc": "2026-09-15T09:57:51Z",
+  "generated_at_utc": "2026-09-15T10:15:39Z",
   "source_fdd_sha256": "22c5e61e5ad238e5027638c9718270ead100ad623eb06b3770d083bef116406e",
   "fields": {
     "slug": {
@@ -222,10 +222,10 @@
       "query_used": "Mobile, AL",
       "nominatim_display": "Mobile, Mobile County, Alabama, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:48:59Z",
+      "geocoded_at": "2026-09-15T10:14:36Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:48:59Z",
+        "re_run_at": "2026-09-15T10:14:36Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -240,10 +240,10 @@
       "query_used": "Vestavia Hills, AL",
       "nominatim_display": "Vestavia Hills, Jefferson County, Alabama, 35216, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:01Z",
+      "geocoded_at": "2026-09-15T10:14:37Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:01Z",
+        "re_run_at": "2026-09-15T10:14:37Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -258,10 +258,10 @@
       "query_used": "Huntsville, AL",
       "nominatim_display": "Huntsville, Madison County, Alabama, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:03Z",
+      "geocoded_at": "2026-09-15T10:14:39Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:03Z",
+        "re_run_at": "2026-09-15T10:14:39Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -276,10 +276,10 @@
       "query_used": "Spanish Fort, AL",
       "nominatim_display": "Spanish Fort, Baldwin County, Alabama, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:07Z",
+      "geocoded_at": "2026-09-15T10:14:41Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:07Z",
+        "re_run_at": "2026-09-15T10:14:41Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -294,28 +294,10 @@
       "query_used": "Gulf Shores, AL",
       "nominatim_display": "Gulf Shores, Baldwin County, Alabama, 36542, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:09Z",
+      "geocoded_at": "2026-09-15T10:14:43Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:09Z",
-        "plotted_matches_geocode": true,
-        "verification_distance_km": 0.0
-      }
-    },
-    {
-      "city": "Anthem",
-      "state": "AZ",
-      "street": "",
-      "label": "Anthem, AZ \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
-      "lat": 33.8538898,
-      "lng": -112.1132905,
-      "query_used": "Anthem, AZ",
-      "nominatim_display": "Anthem, Maricopa County, Arizona, 85086, United States",
-      "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:12Z",
-      "verification": {
-        "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:12Z",
+        "re_run_at": "2026-09-15T10:14:43Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -330,10 +312,10 @@
       "query_used": "Chandler, AZ",
       "nominatim_display": "Chandler, Maricopa County, Arizona, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:14Z",
+      "geocoded_at": "2026-09-15T10:14:45Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:14Z",
+        "re_run_at": "2026-09-15T10:14:45Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -348,10 +330,10 @@
       "query_used": "Gilbert, AZ",
       "nominatim_display": "Gilbert, Maricopa County, Arizona, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:18Z",
+      "geocoded_at": "2026-09-15T10:14:47Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:18Z",
+        "re_run_at": "2026-09-15T10:14:47Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -366,10 +348,10 @@
       "query_used": "Glendale, AZ",
       "nominatim_display": "Glendale, Maricopa County, Arizona, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:20Z",
+      "geocoded_at": "2026-09-15T10:14:49Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:20Z",
+        "re_run_at": "2026-09-15T10:14:49Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -384,10 +366,10 @@
       "query_used": "Phoenix, AZ",
       "nominatim_display": "Phoenix, Maricopa County, Arizona, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:23Z",
+      "geocoded_at": "2026-09-15T10:14:51Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:23Z",
+        "re_run_at": "2026-09-15T10:14:51Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
@@ -402,82 +384,100 @@
       "query_used": "Scottsdale, AZ",
       "nominatim_display": "Scottsdale, Maricopa County, Arizona, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:25Z",
+      "geocoded_at": "2026-09-15T10:14:53Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:25Z",
+        "re_run_at": "2026-09-15T10:14:53Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
     },
     {
-      "city": "Surprise",
-      "state": "AZ",
+      "city": "Allen",
+      "state": "TX",
       "street": "",
-      "label": "Surprise, AZ \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
-      "lat": 33.629247,
-      "lng": -112.3681428,
-      "query_used": "Surprise, AZ",
-      "nominatim_display": "Surprise, Maricopa County, Arizona, United States",
+      "label": "Allen, TX \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
+      "lat": 33.1031744,
+      "lng": -96.6705503,
+      "query_used": "Allen, TX",
+      "nominatim_display": "Allen, Collin County, Texas, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:27Z",
+      "geocoded_at": "2026-09-15T10:14:56Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:27Z",
+        "re_run_at": "2026-09-15T10:14:56Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
     },
     {
-      "city": "Queen Creek",
-      "state": "AZ",
+      "city": "Arlington",
+      "state": "TX",
       "street": "",
-      "label": "Queen Creek, AZ \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
-      "lat": 33.2483858,
-      "lng": -111.634158,
-      "query_used": "Queen Creek, AZ",
-      "nominatim_display": "Queen Creek, Maricopa County, Arizona, United States",
+      "label": "Arlington, TX \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
+      "lat": 32.7355816,
+      "lng": -97.1071186,
+      "query_used": "Arlington, TX",
+      "nominatim_display": "Arlington, Tarrant County, Texas, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:30Z",
+      "geocoded_at": "2026-09-15T10:14:58Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:30Z",
+        "re_run_at": "2026-09-15T10:14:58Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
     },
     {
-      "city": "Goodyear",
-      "state": "AZ",
+      "city": "Austin",
+      "state": "TX",
       "street": "",
-      "label": "Goodyear, AZ \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
-      "lat": 33.4672279,
-      "lng": -112.3853489,
-      "query_used": "Goodyear, AZ",
-      "nominatim_display": "Goodyear, Maricopa County, Arizona, United States",
+      "label": "Austin, TX \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
+      "lat": 30.2711286,
+      "lng": -97.7436995,
+      "query_used": "Austin, TX",
+      "nominatim_display": "Austin, Travis County, Texas, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:34Z",
+      "geocoded_at": "2026-09-15T10:14:59Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:34Z",
+        "re_run_at": "2026-09-15T10:14:59Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
     },
     {
-      "city": "Peoria",
-      "state": "AZ",
+      "city": "Alpharetta",
+      "state": "GA",
       "street": "",
-      "label": "Peoria, AZ \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
-      "lat": 33.5806115,
-      "lng": -112.237294,
-      "query_used": "Peoria, AZ",
-      "nominatim_display": "Peoria, Maricopa County, Arizona, United States",
+      "label": "Alpharetta, GA \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
+      "lat": 34.0755962,
+      "lng": -84.2945964,
+      "query_used": "Alpharetta, GA",
+      "nominatim_display": "Alpharetta, Fulton County, Georgia, United States",
       "geocode_source": "Nominatim openstreetmap.org",
-      "geocoded_at": "2026-09-15T09:49:38Z",
+      "geocoded_at": "2026-09-15T10:15:01Z",
       "verification": {
         "method": "re-run of same Nominatim query at generation time",
-        "re_run_at": "2026-09-15T09:49:38Z",
+        "re_run_at": "2026-09-15T10:15:01Z",
+        "plotted_matches_geocode": true,
+        "verification_distance_km": 0.0
+      }
+    },
+    {
+      "city": "Boca Raton",
+      "state": "FL",
+      "street": "",
+      "label": "Boca Raton, FL \u2014 Hand and Stone spa franchisee (FDD Exhibit I)",
+      "lat": 26.3586885,
+      "lng": -80.0830984,
+      "query_used": "Boca Raton, FL",
+      "nominatim_display": "Boca Raton, Palm Beach County, Florida, United States",
+      "geocode_source": "Nominatim openstreetmap.org",
+      "geocoded_at": "2026-09-15T10:15:04Z",
+      "verification": {
+        "method": "re-run of same Nominatim query at generation time",
+        "re_run_at": "2026-09-15T10:15:04Z",
         "plotted_matches_geocode": true,
         "verification_distance_km": 0.0
       }
